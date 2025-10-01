@@ -33,7 +33,7 @@ Reparations
 
 *What do we mean by reparations, reparative justice, and transitional justice? How do they differ? Why might they be / when are they necessary?*
 
-Guest lecture: Dr. Liliane Umubyeyi, [African Futures Lab](https://africanfutures.mit.edu/): “[What Do We Mean by Reparations?](https://www.youtube.com/watch?v=2feI17qlPOQ)” YouTube.
+Guest lecture: Dr. Liliane Umubyeyi, {{% resource_link "8c4534a7-68e2-4dac-b259-ac3ad4b1663b" "African Futures Lab" %}}: “{{% resource_link "ddd82588-b15f-4972-9d45-2e3c21633462" "What Do We Mean by Reparations?" %}}” YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
@@ -87,7 +87,7 @@ Reading responses due
 
 The nuclear tests in the Sahara
 
-Guest lecture: [Prof. Damien Scalia](https://www.geneva-academy.ch/masters/master-in-transitional-justice/faculty/profile/245-damien-scalia), Université Libre de Bruxelles: “[Openings for Seeking Justice for Colonial Violence in Algeria](https://www.youtube.com/watch?v=2LbzSIwFtXw&t=1s).” YouTube.
+Guest lecture: {{% resource_link "adaf7c5d-2440-4548-b07e-2621715fb11b" "Prof. Damien Scalia" %}}, Université Libre de Bruxelles: “{{% resource_link "e005b03f-0922-4875-986b-8b9d3d50bb59" "Openings for Seeking Justice for Colonial Violence in Algeria" %}}.” YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
@@ -97,7 +97,7 @@ Reading responses due
 
 The law and claims for justice
 
-Guest lecture: Prof. Kelly Picard, [Université Jean Monnet, Saint Etienne](https://www.univ-st-etienne.fr/fr/index.html): “ [State’s Responsibility for Historical Injustices before International Institutions / Courts](https://www.youtube.com/watch?v=fdZ7IFpSo_k).”  YouTube.
+Guest lecture: Prof. Kelly Picard, {{% resource_link "0b916a5a-7069-4b58-be4c-12d950048434" "Université Jean Monnet, Saint Etienne" %}}: “ {{% resource_link "89f624cd-c310-45a5-8947-5385a3f43265" "State’s Responsibility for Historical Injustices before International Institutions / Courts" %}}.”  YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
@@ -149,7 +149,7 @@ Reading responses due
 
 Transitional justice and Belgium’s colonial past
 
-Guest lecture: Annah Moyo, human rights lawyer, [Centre for the Study of Violence and Reconciliation](https://www.csvr.org.za/): “[Relevance of a Transitional Justice Framework to Address Belgium’s Colonial Past](https://www.youtube.com/watch?v=X9xv3ISHN7M).” YouTube.
+Guest lecture: Annah Moyo, human rights lawyer, {{% resource_link "fff7d756-9ce8-4846-8f38-734fc3423124" "Centre for the Study of Violence and Reconciliation" %}}: “{{% resource_link "ca49acef-1cdb-4a55-b54b-059ac4f8e3d0" "Relevance of a Transitional Justice Framework to Address Belgium’s Colonial Past" %}}.” YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
@@ -165,7 +165,7 @@ Reading responses due 
 
 Case workshop
 
-Guest lecture: Ornella Rovetta, Postdoctoral Researcher, [Université Libre de Bruxelles](https://www.ulb.be/en): “ [Using Archives to Support Mobilizations for the Recognition of Belgium’s Colonial Past](https://www.youtube.com/watch?v=ml4vCR0_4io).” YouTube.
+Guest lecture: Ornella Rovetta, Postdoctoral Researcher, {{% resource_link "19fb183c-7f55-4769-9204-6e3b19fbd2c9" "Université Libre de Bruxelles" %}}: “ {{% resource_link "167ad5c5-35b2-4ea3-9811-022b29729178" "Using Archives to Support Mobilizations for the Recognition of Belgium’s Colonial Past" %}}.” YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
  
