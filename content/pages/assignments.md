@@ -23,7 +23,7 @@ This paper is meant as an opportunity for you to integrate the readings and argu
 
 In addressing these questions, please engage meaningfully with at least 4 readings from the past unit (meaningfully means not just listing the texts as citations, but rather discussing their arguments and bringing them to bear on your analysis) and include a bibliography. Papers will be graded on both argumentation (Do you have a clear and coherent argument? How well does the evidence you provide support the argument you advance?) and the quality of your writing (paper organization, sentence structure, grammar, spelling, citations).
 
-The paper should be 3–4 pages double spaced (1500–2000 words). For citation format, visit [Author-Date: Sample Citations](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) on the *Chicago Manual of Style* *Online*.
+The paper should be 3–4 pages double spaced (1500–2000 words). For citation format, visit {{% resource_link "7344665d-73a4-4ecf-9751-7aeb73bad8f3" "Author-Date: Sample Citations" %}} on the *Chicago Manual of Style* *Online*.
 
 The paper is due during session 7.
 
@@ -50,7 +50,7 @@ Please use the following headings for the different sections of your paper:
 
 Please use appropriate citations in your text and include a bibliography. Assume that your readers have not read the articles and other materials you reference, so please include enough information on these documents in your discussion for readers to be able to follow your discussion and argument.
 
-The paper should be 5 pages double spaced. For citation format, visit [Author-Date: Sample Citations](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) on the *Chicago Manual of Style* *Online*.
+The paper should be 5 pages double spaced. For citation format, visit {{% resource_link "7344665d-73a4-4ecf-9751-7aeb73bad8f3" "Author-Date: Sample Citations" %}} on the *Chicago Manual of Style* *Online*.
 
 The paper is due during session 20.
 
@@ -71,6 +71,6 @@ Based on the readings and course discussions we have carried out so far, please 
 
 Please use appropriate citations in your text and include a bibliography. Assume that your readers have not read the articles and other materials you reference, so please include enough information on these documents in your discussion for readers to be able to follow your discussion and argument.
 
-Each case analysis should be 5 pages double-spaced. For citation format, visit [Author-Date: Sample Citations](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) on the *Chicago Manual of Style* *Online*.
+Each case analysis should be 5 pages double-spaced. For citation format, visit {{% resource_link "7344665d-73a4-4ecf-9751-7aeb73bad8f3" "Author-Date: Sample Citations" %}} on the *Chicago Manual of Style* *Online*.
 
 The Algeria case analysis is due during session 14. The Belgium case analysis is due during session 21.

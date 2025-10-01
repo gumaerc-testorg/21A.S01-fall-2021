@@ -55,7 +55,7 @@ For more information on the activities in the table, see the {{% resource_link "
 
 #### Academic Integrity
 
-MIT students are expected to adhere to the university’s [Academic Integrity](http://integrity.mit.edu/) policies. All work (research papers, weekly papers, presentations) must be completed independently. Students are encouraged to discuss the readings and their projects with each other (they may, for example, want to practice their presentations for their classmates), but they are individually responsible for all written work.
+MIT students are expected to adhere to the university’s {{% resource_link "81fb4fa3-a5c9-45dd-9688-97e048980ce6" "Academic Integrity" %}} policies. All work (research papers, weekly papers, presentations) must be completed independently. Students are encouraged to discuss the readings and their projects with each other (they may, for example, want to practice their presentations for their classmates), but they are individually responsible for all written work.
 
 Violating the Academic Integrity policy in any way (e.g., plagiarism) will result in official Institute sanction. Possible sanctions include receiving a failing grade on the assignment, being assigned a failing grade in the course, having a formal notation of disciplinary action placed on your MIT record, suspension from the Institute, and expulsion from the Institute for very serious cases.
 
